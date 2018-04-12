@@ -33,6 +33,8 @@ public class MainActivity extends Activity implements View.OnClickListener {
         currentDate = (TextView) findViewById(R.id.currentDate);
         currentTime = (TextView) findViewById(R.id.currentTime);
 
+        //text change
+
         initDatePicker();
     }
 
